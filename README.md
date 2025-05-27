@@ -1,8 +1,5 @@
 # To-Do-List
 
-# To-do-list
-
-# To-Do List Web App 🌸
 
 An advanced, interactive, and beautifully designed **To-Do List Web App** made using **HTML**, **CSS**, and **JavaScript**. This project goes beyond basic task management by adding an aesthetic UI, nature-themed animations, sound effects, category filtering, dark mode, and due date handling.
 
